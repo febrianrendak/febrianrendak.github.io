@@ -1,0 +1,24 @@
+html,
+body {
+  font-family: Lato, "Helvetica Neue", Sans-serif !important;
+}
+html h2,
+body h2 {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+#top-header .navbar-inner {
+  background: #1C2B36!important;
+  border-bottom: none!important;
+}
+#top-header .brand {
+  line-height: 50px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#top-header .brand img {
+  height: 35px;
+}
+#content .box {
+  border: none!important;
+}
